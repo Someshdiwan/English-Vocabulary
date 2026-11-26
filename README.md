@@ -1170,8 +1170,7 @@ Email: **someshdiwan@icloud.com**
 
 ## Vocabulary Vault
 
-
-<img src="docs/assets/vip.gif" alt="Designed & Developed by Somesh Diwan" width="650">
+<img src="docs/assets/vip_night_sky.gif" alt="Designed & Developed by Somesh Diwan" width="650">
 
 <br>
 
